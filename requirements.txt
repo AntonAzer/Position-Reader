@@ -1,0 +1,6 @@
+flask
+chess
+opencv-python-headless
+numpy
+pillow
+cairosvg

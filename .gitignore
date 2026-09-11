@@ -1,0 +1,2 @@
+echo "stockfish-windows-x86-64-avx2.exe" > .gitignore
+echo "__pycache__/" >> .gitignore
