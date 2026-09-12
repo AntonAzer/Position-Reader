@@ -40,6 +40,10 @@ or on your `PATH`. If yours lives elsewhere, edit `STOCKFISH_CANDIDATES` at
 the top of `engine.py`.
 
 ### 2. Install Python dependencies
+Personally it was in my device I'm just put the file in the project folder and edit this section to fit the file name in engine.py file 
+
+<img width="458" height="147" alt="image" src="https://github.com/user-attachments/assets/b866fdb5-9bb4-4e3a-ae31-f277440b40e2" />
+
 
 ```bash
 python3 -m venv venv
@@ -73,7 +77,7 @@ Then open **http://127.0.0.1:5000** in your browser.
 5. Click **Find the best line**.
 
 You can also skip the image step entirely and just paste a FEN straight
-into the FEN box.
+into the FEN box, try always to make the whole image is the board (crop it), it will be easy to train model that can extracts board data from a little bit noisy screen, but it is not my scope in this project.
 
 ## Extending this
 
@@ -102,3 +106,9 @@ static/style.css               Styling
 static/app.js                   Frontend logic
 requirements.txt
 ```
+
+## Testing
+It is a real puzzle on lichess, and it has been solved optimally!
+
+<img width="1222" height="778" alt="image" src="https://github.com/user-attachments/assets/0787d0a7-5fb8-42f9-84bf-faf73024991f" />
+
