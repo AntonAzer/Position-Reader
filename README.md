@@ -114,5 +114,5 @@ It is a real puzzle on lichess, and it has been solved optimally!
 
 ## Next
 
-I'm looking forward developing board reading efficiency and provide confidence to the analysis to real board (3D pieces), It will be achievement if I embed my own engine (remove the dependency on Stockfish), but the limitation to train model like LilaZero style that can compete with Stockfish the hardware limitation, this type of models have trained on big datasets.
+I'm looking forward developing board reading efficiency and provide confidence to the analysis to real board (3D pieces), It will be achievement if I embed my own engine (remove the dependency on Stockfish), but the limitation to train model like Lilazero style which can compete with Stockfish is the hardware limitation, this type of models have trained on big datasets.
 
