@@ -112,3 +112,7 @@ It is a real puzzle on lichess, and it has been solved optimally!
 
 <img width="1222" height="778" alt="image" src="https://github.com/user-attachments/assets/0787d0a7-5fb8-42f9-84bf-faf73024991f" />
 
+## Next
+
+Develop board reading efficiency and provide confidence analysis to real board (3D pieces), It will be achievement if I embed my own engine (remove the dependency on Stockfish), but the limitation to train model like LilaZero style that can compete with Stockfish the hardware limitation, this type of models have trained on big datasets.
+
