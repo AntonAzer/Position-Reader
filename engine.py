@@ -8,6 +8,7 @@ import chess
 import chess.engine
 
 STOCKFISH_CANDIDATES = [
+    "/home/antonazer/stockfish/stockfish-ubuntu-x86-64-avx2",
     "./stockfish-windows-x86-64-avx2.exe",
     "/usr/games/stockfish",
     "/usr/bin/stockfish",
