@@ -3,6 +3,9 @@
 Upload an image of a chess board, get the position as FEN, and get Stockfish's
 best line from there — as a small local web app.
 
+
+**[Live Demo](https://antonazer.pythonanywhere.com/) using *Python anywhere* .**
+
 ## How it works
 
 1. **Vision** (`vision.py`) — locates the board in the image, splits it into
