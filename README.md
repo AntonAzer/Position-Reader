@@ -112,7 +112,7 @@ It is a real puzzle on lichess, and it has been solved optimally!
 
 <img width="1222" height="778" alt="image" src="https://github.com/user-attachments/assets/0787d0a7-5fb8-42f9-84bf-faf73024991f" />
 
-# Challenges Will Be Resolved:
+## Challenges Will Be Resolved:
 Using strict approach to read the board not a model with variance creates unhandled edge cases, the current challenge is reading the king with red square when it in check as a knight even that I clear the background if each
 piece to ensure consistency, editing the extracting function to fix that has succeed but failed in already done tasks like black rooks, the edited version will be done ASAP.
 
