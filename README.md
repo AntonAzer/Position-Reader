@@ -6,6 +6,8 @@ best line from there — as a small local web app.
 
 **[Live Demo](https://antonazer.pythonanywhere.com/) using *Python anywhere* .**
 
+It needs to be refreshed every month from *Python anywhere* so it's possible that the demo is unactivated when you click it :(
+
 ## How it works
 
 1. **Vision** (`vision.py`) — locates the board in the image, splits it into
